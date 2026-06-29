@@ -1,0 +1,6 @@
+streamlit>=1.36.0
+chromadb>=0.5.5
+sentence-transformers>=3.0.1
+python-dotenv>=1.0.1
+openai>=1.35.0
+requests>=2.32.3
